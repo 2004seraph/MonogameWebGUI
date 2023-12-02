@@ -5,3 +5,5 @@ An example project using [Puppeteer Sharp](https://github.com/hardkoded/puppetee
 Currently it can render everything correctly, but input event piping has not currently been implemented.
 
 ![A combine harvester mowing a wheat field](preview.png?raw=true "Preview Image")
+
+Originally I planned to use cefSharp, but the project is pretty much Windows-only, making it useless for cross platform development.
