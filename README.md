@@ -11,6 +11,6 @@ Originally I planned to use cefSharp, but the project is pretty much Windows-onl
 ## Missing Features
 - it currently is loading a file from a server, we need it to load locally, this is non-trivial due to security policies of chromium
 - no events are piped to the web-side of things
-- it is not continuously rendering
+- it is not continuously rendering (too slow)
 - it currently dynamically downloads chromium based on the platform, we need to bundle a chromium
 - It needs to be wrapped in a packaging class for integration with
