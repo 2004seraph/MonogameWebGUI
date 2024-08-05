@@ -4,7 +4,7 @@ An example project using [Puppeteer Sharp](https://github.com/hardkoded/puppetee
 
 Currently it can render everything correctly, but many features are still missing (listed below).
 
-![A combine harvester mowing a wheat field](preview.png?raw=true "Preview Image")
+![Girl with purple hair](preview.png?raw=true "Preview Image")
 
 Originally I planned to use cefSharp, but the project is pretty much Windows-only, making it useless for cross platform development.
 
